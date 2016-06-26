@@ -1,0 +1,10 @@
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\bin\Debug\winSiparisTelefon.exe.config
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\bin\Debug\winSiparisTelefon.exe
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\bin\Debug\winSiparisTelefon.pdb
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.Form1.resources
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.frmMarkaYonet.resources
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.exe
+C:\Users\HasKhan\Desktop\winSiparisTelefon\winSiparisTelefon\obj\Debug\winSiparisTelefon.pdb
